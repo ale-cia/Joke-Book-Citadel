@@ -1,0 +1,23 @@
+{
+  "name": "joke-book-citadel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ale-cia/Joke-Book-Citadel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ale-cia/Joke-Book-Citadel/issues"
+  },
+  "homepage": "https://github.com/ale-cia/Joke-Book-Citadel#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
